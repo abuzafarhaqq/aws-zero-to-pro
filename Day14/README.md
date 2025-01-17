@@ -1,5 +1,7 @@
 # **Day 14: Final Project**
+
 ### Topic: Elastic Container Service (ECS) and Elastic Container Registry (ECR)
+
 #### Guidelines:
 - Learn about ECS for container orchestration and ECR for image storage.
 - Understand how to deploy a multi-container application.
@@ -13,3 +15,7 @@
   #### Reference Links:
 - [ECS Documentation](https://docs.aws.amazon.com/ecs/)
 - [ECR Documentation](https://docs.aws.amazon.com/ecr/)
+
+---
+
+[Previous Day: Day 13](../Day13/README.md) | [HomePage](../README.md)

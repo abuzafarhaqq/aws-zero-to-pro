@@ -1,5 +1,7 @@
 # **Day 11: API Gateway Basics**
+
 ### Topic: Building APIs with API Gateway
+
 #### Guidelines:
 - Learn how to create a REST API using API Gateway.
 - Understand integration with Lambda functions.
@@ -11,3 +13,7 @@
 
 #### Reference Links:
 - [API Gateway Documentation](https://docs.aws.amazon.com/apigateway/)
+
+---
+
+[Previous Day: Day 10](../Day10/README.md) | [HomePage](../README.md) | [Next Day: Day 12](../Day12/README.md)

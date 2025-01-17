@@ -1,5 +1,7 @@
 # **Day 13: AWS WAF and VPC Peering**
+
 ### Topic: Web Application Firewall (WAF) and Virtual Private Cloud (VPC) Peering
+
 #### Guidelines:
 - Learn how AWS WAF protects against common web exploits.
 - Understand VPC architecture:
@@ -21,3 +23,7 @@
 - [WAF Documentation](https://docs.aws.amazon.com/waf)
 - [VPC Documentation](https://docs.aws.amazon.com/vpc)
 - [VPC Peering Documentation](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
+
+---
+
+[Previous Day: Day 12](../Day12/README.md) | [HomePage](../README.md) | [Next Day: Day 14](../Day14/README.md)

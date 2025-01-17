@@ -1,5 +1,7 @@
 # **Day 6: CloudWatch Basics**
+
 ### Topic: Monitoring and Logs with CloudWatch
+
 #### Guidelines:
 - Learn about CloudWatch metrics, alarms, and logs.
 - Set up basic monitoring for an EC2 instance.
@@ -10,3 +12,7 @@
 
 #### Reference Links:
 - [CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch)
+
+---
+
+[Previous Day: Day 5](../Day05/README.md) | [HomePage](../README.md) | [Next Day: Day 7](../Day07/README.md)

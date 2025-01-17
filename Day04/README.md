@@ -1,5 +1,7 @@
 # **Day 4: EC2 Instances**
+
 ### Topic: Elastic Compute Cloud (EC2) Basics
+
 #### Guidelines:
 - Learn about instance types, AMIs, key pairs, and security groups.
 - Understand the steps to launch, connect to, and terminate an EC2 instance.
@@ -10,3 +12,7 @@
 
 #### Reference Links:
 - [EC2 Documentation](https://docs.aws.amazon.com/ec2)
+
+---
+
+[Previous Day: Day 3](../Day03/README.md) | [HomePage](../README.md) | [Next Day: Day 5](../Day05/README.md)

@@ -1,5 +1,7 @@
 # **Day 8: Auto Scaling**
+
 ### Topic: Auto Scaling Groups (ASG)
+
 #### Guidelines:
 - Understand scaling policies and launch configurations/templates.
 - Learn how to set up an Auto Scaling group with EC2 instances.
@@ -10,3 +12,7 @@
 
 #### Reference Links:
 - [Auto Scaling Documentation](https://docs.aws.amazon.com/autoscaling)
+
+---
+
+[Previous Day: Day 7](../Day07/README.md) | [HomePage](../README.md) | [Next Day: Day 9](../Day09/README.md)

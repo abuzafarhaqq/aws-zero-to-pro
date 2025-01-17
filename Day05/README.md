@@ -1,5 +1,7 @@
 # **Day 5: AWS CLI**
+
 ### Topic: Command Line Interface (CLI)
+
 #### Guidelines:
 - Install the AWS CLI and configure it with IAM credentials.
 - Practice basic commands like `aws s3 ls` and `aws ec2 describe-instances` to access services.
@@ -10,3 +12,7 @@
 
 #### Reference Links:
 - [AWS CLI Documentation](https://docs.aws.amazon.com/cli)
+
+---
+
+[Previous Day: Day 4](../Day04/README.md) | [HomePage](../README.md) | [Next Day: Day 6](../Day06/README.md)

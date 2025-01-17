@@ -1,5 +1,7 @@
 # **Day 7: Elastic Load Balancer (ELB)**
+
 ### Topic: Load Balancing and Scaling
+
 #### Guidelines:
 - Learn about load balancing concepts and how ELBs distribute traffic.
 - Understand the difference between Application, Network, and Classic Load Balancers.
@@ -10,3 +12,7 @@
 
 #### Reference Links:
 - [ELB Documentation](https://docs.aws.amazon.com/elasticloadbalancing)
+
+---
+
+[Previous Day: Day 6](../Day06/README.md) | [HomePage](../README.md) | [Next Day: Day 8](../Day08/README.md)

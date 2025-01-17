@@ -1,5 +1,7 @@
 # **Day 9: RDS Basics**
+
 ### Topic: Relational Database Service (RDS)
+
 #### Guidelines:
 - Learn about managed databases and supported engines (MySQL, PostgreSQL, etc.).
 - Practice creating a database instance.
@@ -10,3 +12,7 @@
 
 #### Reference Links:
 - [RDS Documentation](https://docs.aws.amazon.com/rds)
+
+---
+
+[Previous Day: Day 8](../Day08/README.md) | [HomePage](../README.md) | [Next Day: Day 10](../Day10/README.md)

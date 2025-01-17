@@ -1,5 +1,7 @@
 # **Day 12: DynamoDB Basics**
+
 ### Topic: NoSQL with DynamoDB
+
 #### Guidelines:
 - Learn about tables, items, attributes, and primary keys.
 - Understand partition keys and secondary indexes.
@@ -11,3 +13,7 @@
 
 #### Reference Links:
 - [DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb)
+
+---
+
+[Previous Day: Day 11](../Day11/README.md) | [HomePage](../README.md) | [Next Day: Day 13](../Day13/README.md)

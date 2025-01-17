@@ -1,5 +1,7 @@
 # **Day 2: IAM Basics**
+
 ### Topic: Identity and Access Management (IAM)
+
 #### Guidelines:
 - Understand IAM and it's importance
 - Learn how to create users, groups, and roles.
@@ -11,3 +13,7 @@
 
 #### Reference Links:
 - [AWS IAM](https://aws.amazon.com/iam/)
+
+---
+
+[Previous Day: Day 1](../Day01/README.md) | [HomePage](../README.md) | [Next Day: Day 3](../Day03/README.md)

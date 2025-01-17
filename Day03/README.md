@@ -1,5 +1,7 @@
 # **Day 3: Amazon S3**
+
 ### Topic: Simple Storage Service (S3) Basics
+
 #### Guidelines:
 - Understand buckets, objects, and storage classes.
 - Learn about versioning, lifecycle rules, and bucket policies.
@@ -10,3 +12,7 @@
 
 #### Reference Links:
 - [S3 Documentation](https://docs.aws.amazon.com/s3)
+
+---
+
+[Previous Day: Day 2](../Day02/README.md) | [HomePage](../README.md) | [Next Day: Day 4](../Day04/README.md)
